@@ -29,7 +29,7 @@ My diverse skill set allows me to adapt quickly to new projects and deliver opti
 
 Feel free to reach out if you want to collaborate on a project or just want to connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/adrien-jacquenet-4a279b261/) 
+- [LinkedIn](https://www.linkedin.com/in/adrien-jacquenet-4a279b261/) 
 
 ---
 
