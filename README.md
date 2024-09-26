@@ -50,7 +50,7 @@ Here are some of my notable projects:
 
 Check out my portfolio for more.
 
-- [Portfolio]([http://adrien.jacq](https://portfolio-aj-d6d6acaegbb3h5ca.francecentral-01.azurewebsites.net/))
+- [Portfolio](https://portfolio-aj-d6d6acaegbb3h5ca.francecentral-01.azurewebsites.net/)
 
 
 ---
